@@ -1,6 +1,6 @@
 # wdio-tenx
 
-## EXAM
+## LIVE EXAM
 
 This repository contains UI tests, which at this time are not passing. You need to:
 
