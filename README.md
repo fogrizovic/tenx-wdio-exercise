@@ -1,5 +1,4 @@
-# wdio-tenx
-## LIVE EXAM
+## WDIO Excercise
 
 This repository contains a basic WDIO framework setup with some tests. 
 * Excercise 1: tests for the login
@@ -8,10 +7,10 @@ This repository contains a basic WDIO framework setup with some tests.
 For both excercises you need to:
 
 * Clone repository
-* Run the tests locally
+* Install and Run tests locally
 * Find errors and fix them
 * Suggest improvements at all levels you can (best practices, modularization, code optimization, data security, test optimization)
-* Create a PR with the fixes
+* Create a PR with fixes
 ## Assumptions
 - You can use Google for whatever you want.
 - You can ask any questions, share your opinion or start any discussion with us on anything you need.
