@@ -1,7 +1,7 @@
 # wdio-tenx
 ## LIVE EXAM
 
-This repository contains a basic WDIO framework setup with 2 tests. 
+This repository contains a basic WDIO framework setup with some tests. 
 * Excercise 1: tests for the login
 * Excercise 2: tests for the home. Login is a precondition for all tests.
 
