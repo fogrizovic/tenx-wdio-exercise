@@ -1,10 +1,10 @@
-## WDIO Excercise
+## WDIO Exercise
 
 This repository contains a basic WDIO framework setup with some tests. 
-* Excercise 1: tests for the login
-* Excercise 2: tests for the home. Login is a precondition for all tests.
+* Exercise 1: tests for the login
+* Exercise 2: tests for the home. Login is a precondition for all tests.
 
-For both excercises you need to:
+For both exercises you need to:
 
 * Clone repository
 * Install and Run tests locally
